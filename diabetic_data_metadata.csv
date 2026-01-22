@@ -1,0 +1,51 @@
+Column Name,Description
+encounter_id,Encounter id in the diabetic dataset
+patient_nbr,Patient nbr in the diabetic dataset
+race,Race in the diabetic dataset
+gender,Gender in the diabetic dataset
+age,Age in the diabetic dataset
+weight,Weight in the diabetic dataset
+admission_type_id,Admission type id in the diabetic dataset
+discharge_disposition_id,Discharge disposition id in the diabetic dataset
+admission_source_id,Admission source id in the diabetic dataset
+time_in_hospital,Time in hospital in the diabetic dataset
+payer_code,Payer code in the diabetic dataset
+medical_specialty,Medical specialty in the diabetic dataset
+num_lab_procedures,Num lab procedures in the diabetic dataset
+num_procedures,Num procedures in the diabetic dataset
+num_medications,Num medications in the diabetic dataset
+number_outpatient,Number outpatient in the diabetic dataset
+number_emergency,Number emergency in the diabetic dataset
+number_inpatient,Number inpatient in the diabetic dataset
+diag_1,Diag 1 in the diabetic dataset
+diag_2,Diag 2 in the diabetic dataset
+diag_3,Diag 3 in the diabetic dataset
+number_diagnoses,Number diagnoses in the diabetic dataset
+max_glu_serum,Max glu serum in the diabetic dataset
+A1Cresult,A1cresult in the diabetic dataset
+metformin,Metformin in the diabetic dataset
+repaglinide,Repaglinide in the diabetic dataset
+nateglinide,Nateglinide in the diabetic dataset
+chlorpropamide,Chlorpropamide in the diabetic dataset
+glimepiride,Glimepiride in the diabetic dataset
+acetohexamide,Acetohexamide in the diabetic dataset
+glipizide,Glipizide in the diabetic dataset
+glyburide,Glyburide in the diabetic dataset
+tolbutamide,Tolbutamide in the diabetic dataset
+pioglitazone,Pioglitazone in the diabetic dataset
+rosiglitazone,Rosiglitazone in the diabetic dataset
+acarbose,Acarbose in the diabetic dataset
+miglitol,Miglitol in the diabetic dataset
+troglitazone,Troglitazone in the diabetic dataset
+tolazamide,Tolazamide in the diabetic dataset
+examide,Examide in the diabetic dataset
+citoglipton,Citoglipton in the diabetic dataset
+insulin,Insulin in the diabetic dataset
+glyburide-metformin,Glyburide-metformin in the diabetic dataset
+glipizide-metformin,Glipizide-metformin in the diabetic dataset
+glimepiride-pioglitazone,Glimepiride-pioglitazone in the diabetic dataset
+metformin-rosiglitazone,Metformin-rosiglitazone in the diabetic dataset
+metformin-pioglitazone,Metformin-pioglitazone in the diabetic dataset
+change,Change in the diabetic dataset
+diabetesMed,Diabetesmed in the diabetic dataset
+readmitted,Readmitted in the diabetic dataset
